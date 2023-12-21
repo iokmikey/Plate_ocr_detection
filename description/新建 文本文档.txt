@@ -1,0 +1,5 @@
+车牌定位以及字体识别 
+
+激活虚拟环境  plate_orc_venv
+
+detection  运行即可
